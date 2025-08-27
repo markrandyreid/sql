@@ -20,7 +20,7 @@
   <summary><strong>Assignments</strong></summary>
   <ul style="padding-left: 30px;">
    <p>
-     <a href="http://htmlpreview.github.io/?https://github.com/markrandyreid/economics/blob/main/assignments/econometrics.a1.html" target="_blank">MySQL Download and Install</a>
+     <a href="http://htmlpreview.github.io/?[https://github.com/markrandyreid/sql/blob/main/assignments/mysqldownloadinstall.pdf]" target="_blank">MySQL Download and Install</a>
    </p>
    </ul>
 </details>
