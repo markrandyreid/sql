@@ -18,9 +18,11 @@
 
 <details name="sql_assignments">
   <summary><strong>Assignments</strong></summary>
-   <ul>
-     <li><a href="http://htmlpreview.github.io/?https://github.com/markrandyreid/economics/blob/main/assignments/econometrics.a1.html" target="_blank">1.MySQL Download and Install</a></li>
-   </ul>    
+  <ul style="padding-left: 30px;">
+   <p>
+     <a href="http://htmlpreview.github.io/?https://github.com/markrandyreid/economics/blob/main/assignments/econometrics.a1.html" target="_blank">MySQL Download and Install</a>
+   </p>
+   </ul>
 </details>
 
 <details name="fia_exams">
