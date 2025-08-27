@@ -2,8 +2,9 @@
 <p>Assignments, Exams, Leetcode for SQL
 <br>
 <h2>Leetcode SQL Problems</h2>
-  <li><a href="http://htmlpreview.github.io/?[https://github.com/markrandyreid/leetcode.sql]" target="_blank">Repository</a></li>
-</ul>    
+<p>
+  <a href="http://htmlpreview.github.io/?https://github.com/markrandyreid/leetcode.sql" target="_blank">Repository</a>
+</p>
 
 <h2>Academic Courses</h2>
 <h3>SQL 1</h3>
