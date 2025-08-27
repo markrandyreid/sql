@@ -3,7 +3,7 @@
 <br>
 <h2>Leetcode SQL Problems</h2>
 <p>
-  <a href="http://htmlpreview.github.io/?https://github.com/markrandyreid/leetcode.sql" target="_blank">Repository</a>
+  <a href="https://github.com/markrandyreid/leetcode.sql" target="_blank">Repository</a>
 </p>
 
 <h2>Academic Courses</h2>
@@ -16,10 +16,10 @@
   </ul>
 </details>
 
-<details name="fia_assignments">
+<details name="sql_assignments">
   <summary><strong>Assignments</strong></summary>
-   <ul style="padding-left: 30px;">
-     <li><a href="http://htmlpreview.github.io/?https://github.com/markrandyreid/economics/blob/main/assignments/econometrics.a1.html" target="_blank">Assignment One</a></li>
+   <ul>
+     <li><a href="http://htmlpreview.github.io/?https://github.com/markrandyreid/economics/blob/main/assignments/econometrics.a1.html" target="_blank">1.MySQL Download and Install</a></li>
    </ul>    
 </details>
 
