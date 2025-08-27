@@ -6,7 +6,7 @@
   <a href="https://github.com/markrandyreid/leetcode.sql" target="_blank">Repository</a>
 </p>
 
-<h2>Academic Courses</h2>
+<h2>Coursework</h2>
 <h3>SQL 1</h3>
 <p>An Introduction to SQL course provides students with the foundational skills to work with relational databases using systems like MySQL, PostgreSQL, Oracle, and SQL Server. Students learn to create, query, and manage data through SQL commands, including data manipulation (INSERT, UPDATE, DELETE), data definition (CREATE, ALTER, DROP), and advanced queries using joins, subqueries, grouping, and aggregate functions. The course also covers keys, relationships, and constraints to ensure data integrity. By the end, students are able to design basic tables, write efficient queries, and apply SQL to support data analysis and decision-making in business and technology contexts.</p>
 
