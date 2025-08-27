@@ -1,5 +1,5 @@
 <h1>SQL</b></h1>
-<p>Assignments, Exams, Leetcode for SQL
+<p>Work in SQL
 <br>
 <h2>Leetcode SQL Problems</h2>
 <p>
